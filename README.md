@@ -1,6 +1,6 @@
 # Friendship Calculator 💑
 
-Project Link : 
+Project Link :  https://lalitdeore30.github.io/Friendship_calculator/
 
 ## Overview 📝
 
@@ -10,7 +10,20 @@ The "Friendship Calculator" project is a simple web application that allows user
 
 1.Desktop View
 
-2.Mobile VIew
+First Page : 
+<img width="1437" alt="Screenshot 2023-10-15 at 11 44 33 AM" src="https://github.com/LalitDeore30/Friendship_calculator/assets/115993677/3e2837c5-7c99-4d1b-bbcc-5fbb08117aec">
+<img width="1440" alt="Screenshot 2023-10-15 at 11 44 39 AM" src="https://github.com/LalitDeore30/Friendship_calculator/assets/115993677/2e08719c-03fe-4d77-9765-7<img width="1436" alt="Screenshot 2023-10-15 at 11 44 56 AM" src="https://github.com/LalitDeore30/Friendship_calculator/assets/115993677/48ca916f-a475-41e9-8cf7-c791faa7e84a">
+e8b6e59e8da">
+
+2.Mobile View
+First Page:
+<img width="270" alt="Screenshot 2023-10-15 at 11 45 48 AM" src="https://github.com/LalitDeore30/Friendship_calculator/assets/115993677/f29f000a-a1ce-47de-94e7-ed5b4a33bdf7">
+
+<img width="272" alt="Screenshot 2023-10-15 at 11 46 02 AM" src="https://github.com/LalitDeore30/Friendship_calculator/assets/115993677/32429e60-efe9-4a93-a5c8-bd1216d1e242">
+Second Page:
+<img width="273" alt="Screenshot 2023-10-15 at 11 45 26 AM" src="https://github.com/LalitDeore30/Friendship_calculator/assets/115993677/c90ed066-730c-4ce5-99c2-053ca0f1638a">
+
+
 
 ## Table of Contents 📚
 
