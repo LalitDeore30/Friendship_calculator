@@ -17,6 +17,9 @@ First Page :
 
 
 2.Mobile View
+
+
+
 First Page:
 <img width="270" alt="Screenshot 2023-10-15 at 11 45 48 AM" src="https://github.com/LalitDeore30/Friendship_calculator/assets/115993677/f29f000a-a1ce-47de-94e7-ed5b4a33bdf7">
 
