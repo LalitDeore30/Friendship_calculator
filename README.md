@@ -1,8 +1,16 @@
 # Friendship Calculator 💑
 
+Project Link : 
+
 ## Overview 📝
 
 The "Friendship Calculator" project is a simple web application that allows users to check their friendship percentage with a friend. In this README, we will provide an overview of the project and explain how to improve the styling and responsiveness.
+
+## Project Preview
+
+1.Desktop View
+
+2.Mobile VIew
 
 ## Table of Contents 📚
 
