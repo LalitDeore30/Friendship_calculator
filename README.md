@@ -21,12 +21,6 @@ First Page:
 <img width="270" alt="Screenshot 2023-10-15 at 11 45 48 AM" src="https://github.com/LalitDeore30/Friendship_calculator/assets/115993677/f29f000a-a1ce-47de-94e7-ed5b4a33bdf7">
 
 
-
-
-<img width="272" alt="Screenshot 2023-10-15 at 11 46 02 AM" src="https://github.com/LalitDeore30/Friendship_calculator/assets/115993677/32429e60-efe9-4a93-a5c8-bd1216d1e242">
-
-
-
 Second Page:
 <img width="273" alt="Screenshot 2023-10-15 at 11 45 26 AM" src="https://github.com/LalitDeore30/Friendship_calculator/assets/115993677/c90ed066-730c-4ce5-99c2-053ca0f1638a">
 
